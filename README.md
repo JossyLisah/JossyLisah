@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JossyLisah
+- 👋 Hi, I’m Josephine Wangui
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning DBIT
+- 🌱 A graduate of DBIT
 - 💞️ I’m looking to collaborate on website creation
-- 📫 How to reach me lisahjos@gmail.com
+- 📫 How to reach me josephinewangui519@gmail.com
 
 <!---
 JossyLisah/JossyLisah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
